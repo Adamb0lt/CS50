@@ -1,0 +1,6 @@
+//Use a do while loop to create ask the height at least once
+//ensure that the while condition doesnt accept negatives and numbers above 8
+// create a for loop
+// create a for loop in the for loop
+//one for loop will generate the hashtags
+//the other for loop will generate the spaces or dots as place holders
