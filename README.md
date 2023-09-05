@@ -1,5 +1,5 @@
 # CS50 with focus on python(CS50P).
-Small exercises covering Loops, File I/O, Try Except, Unit Testing, Regular Expressions,
-# includes a few problems with C(CS50x)
-# should only be used for comparing solutions, NOT FOR CHEATING
+Weekly problem sets covering Loops, File I/O, Try Except, Unit Testing, Regular Expressions, and Object Oriented Programming
+Link to associated weeks and problems connected to exercises can be found at the link below
+https://cs50.harvard.edu/python/2022/
 
