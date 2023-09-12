@@ -1,0 +1,10 @@
+Libraries that are required
+
+project.py
+
+* pip install requests
+* pip install inflect
+
+test_project.py
+
+* pip install pytest
